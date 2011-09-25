@@ -1,0 +1,27 @@
+Microsoft Visual Studio Solution File, Format Version 10.00
+# Visual Studio 2008
+
+Project("{3F220809-CC3A-127F-657E-6C1B9D1E7D2C}") = "Carrunn", "Assembly-CSharp-firstpass.csproj", "{2516BECA-2D92-642A-AF4C-55268112CDD8}"
+EndProject
+Project("{3F220809-CC3A-127F-657E-6C1B9D1E7D2C}") = "Carrunn", "Assembly-UnityScript.unityproj", "{129172EC-DF50-0A91-0D0C-E7299FD4E846}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2516BECA-2D92-642A-AF4C-55268112CDD8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2516BECA-2D92-642A-AF4C-55268112CDD8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2516BECA-2D92-642A-AF4C-55268112CDD8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2516BECA-2D92-642A-AF4C-55268112CDD8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{129172EC-DF50-0A91-0D0C-E7299FD4E846}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{129172EC-DF50-0A91-0D0C-E7299FD4E846}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{129172EC-DF50-0A91-0D0C-E7299FD4E846}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{129172EC-DF50-0A91-0D0C-E7299FD4E846}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	
+EndGlobal
