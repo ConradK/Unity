@@ -3,6 +3,10 @@ Microsoft Visual Studio Solution File, Format Version 10.00
 
 Project("{3F220809-CC3A-127F-657E-6C1B9D1E7D2C}") = "Carrunn", "Assembly-CSharp-firstpass-vs.csproj", "{2516BECA-2D92-642A-AF4C-55268112CDD8}"
 EndProject
+Project("{3F220809-CC3A-127F-657E-6C1B9D1E7D2C}") = "Carrunn", "Assembly-CSharp-vs.csproj", "{56DBAFC0-325D-3524-6008-0DBD87987D23}"
+EndProject
+Project("{3F220809-CC3A-127F-657E-6C1B9D1E7D2C}") = "Carrunn", "Assembly-CSharp-Editor-vs.csproj", "{8D95A1DB-8320-5A7C-C844-CFE16038EF32}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -13,6 +17,14 @@ Global
 		{2516BECA-2D92-642A-AF4C-55268112CDD8}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{2516BECA-2D92-642A-AF4C-55268112CDD8}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{2516BECA-2D92-642A-AF4C-55268112CDD8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{56DBAFC0-325D-3524-6008-0DBD87987D23}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{56DBAFC0-325D-3524-6008-0DBD87987D23}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{56DBAFC0-325D-3524-6008-0DBD87987D23}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{56DBAFC0-325D-3524-6008-0DBD87987D23}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8D95A1DB-8320-5A7C-C844-CFE16038EF32}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8D95A1DB-8320-5A7C-C844-CFE16038EF32}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8D95A1DB-8320-5A7C-C844-CFE16038EF32}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8D95A1DB-8320-5A7C-C844-CFE16038EF32}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

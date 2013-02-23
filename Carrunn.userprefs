@@ -2,8 +2,9 @@
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
   <MonoDevelop.Ide.Workbench ActiveDocument="Assets\Prefabs\Materials\Scripts\Driving.js">
     <Files>
-      <File FileName="Assets\Prefabs\Materials\Scripts\Driving.js" Line="29" Column="67" />
-      <File FileName="Assets\Standard Assets (Mobile)\Scripts\SmoothFollow2D.js" Line="57" Column="2" />
+      <File FileName="Assets\Standard Assets\Water (Basic)\Sources\Shaders\FX-Water Simple.shader" Line="1" Column="1" />
+      <File FileName="Assets\Prefabs\Materials\Scripts\Driving.js" Line="1" Column="1" />
+      <File FileName="Assets\Standard Assets (Mobile)\Scripts\SmoothFollow2D.js" Line="1" Column="1" />
     </Files>
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.DebuggingService.Breakpoints>

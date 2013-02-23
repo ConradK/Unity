@@ -44,14 +44,33 @@
 	</Reference>
   </ItemGroup>
   <ItemGroup>
+     <Compile Include="Assets\Standard Assets\Detonator\System\Detonator.cs" />
+     <Compile Include="Assets\Standard Assets\Detonator\System\DetonatorBurstEmitter.cs" />
+     <Compile Include="Assets\Standard Assets\Detonator\System\DetonatorCloudRing.cs" />
+     <Compile Include="Assets\Standard Assets\Detonator\System\DetonatorFireball.cs" />
+     <Compile Include="Assets\Standard Assets\Detonator\System\DetonatorForce.cs" />
+     <Compile Include="Assets\Standard Assets\Detonator\System\DetonatorGlow.cs" />
+     <Compile Include="Assets\Standard Assets\Detonator\System\DetonatorHeatwave.cs" />
+     <Compile Include="Assets\Standard Assets\Detonator\System\DetonatorLight.cs" />
+     <Compile Include="Assets\Standard Assets\Detonator\System\DetonatorShockwave.cs" />
+     <Compile Include="Assets\Standard Assets\Detonator\System\DetonatorSmoke.cs" />
+     <Compile Include="Assets\Standard Assets\Detonator\System\DetonatorSound.cs" />
+     <Compile Include="Assets\Standard Assets\Detonator\System\DetonatorSparks.cs" />
+     <Compile Include="Assets\Standard Assets\Detonator\System\DetonatorSpray.cs" />
      <Compile Include="Assets\Standard Assets\Water (Basic)\Sources\Scripts\WaterSimple.cs" />
      <None Include="Assets\Standard Assets (Mobile)\Shaders\Particle Shaders\Mobile Multiply Culled.shader" />
      <None Include="Assets\Standard Assets (Mobile)\Shaders\Miscellaneous Shaders\Mobile Background.shader" />
      <None Include="Assets\Standard Assets (Mobile)\Shaders\Vertex Colored Shaders\Mobile Transparent Vertex Color.shader" />
+     <None Include="Assets\Road and Path Tool\tutorial.txt" />
+     <None Include="Assets\Road and Path Tool\Shader\Diffuse_RoadOffset.shader" />
      <None Include="Assets\Standard Assets (Mobile)\Shaders\Miscellaneous Shaders\Mobile Detail.shader" />
+     <None Include="Assets\River Tool\tutorial.txt" />
+     <None Include="Assets\Standard Assets\Detonator\Resources\Detonator\Textures\HeatDistort.shader" />
      <None Include="Assets\Standard Assets\Skyboxes\ skybox info.txt" />
+     <None Include="Assets\River Tool\Shader\RiverShader.shader" />
      <None Include="Assets\Standard Assets\Water (Basic)\Sources\Shaders\FX-Water Simple.shader" />
      <None Include="Assets\Standard Assets (Mobile)\Shaders\Lightmap Shaders (Legacy)\Mobile Lightmap Reflective.shader" />
+     <None Include="Assets\TerrainBumpmap\TerrainBumpmap\TerrainBumpmap\UnityTerrainBump\TerrainReplacement.shader" />
      <None Include="Assets\Standard Assets (Mobile)\Shaders\Particle Shaders\Mobile Particles Additive Culled.shader" />
      <None Include="Assets\Standard Assets (Mobile)\Shaders\Vertex Colored Shaders\Mobile Vertex Colored.shader" />
      <None Include="Assets\Standard Assets (Mobile)\Shaders\Lightmap Shaders (Legacy)\Mobile Lightmap Only.shader" />
